@@ -1,3 +1,1 @@
-# JayasBlog
-# BLOG-MERN
-# cap-project
+# JayshreeMoreyCapstoneDisneyBlogFinal
